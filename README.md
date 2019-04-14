@@ -1,0 +1,2 @@
+# Figures
+Plots and such
